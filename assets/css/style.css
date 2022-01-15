@@ -1,0 +1,55 @@
+.navbar-brand {
+    font-family: "Lobster";
+}
+.jumbotron {
+    padding-top: 8rem;
+    background-color: #a2d9ff;
+}
+.name {
+    font-family: "Fira Code", monospace;
+}
+.status {
+    font-family: "Fira Code", monospace;
+}
+.brand_section {
+    font-family: "Fira Code", monospace;
+}
+.jumbotron img {
+    width: 200px;
+    height: 200px;
+}
+#project {
+    background-color: #a2d9ff;
+}
+footer#footer {
+    background-color: #a2d9ff;
+    padding-bottom: 20px;
+}
+section {
+    padding-top: 7rem;
+}
+.image:hover {
+    transform: scale(1.2);
+}
+.cover {
+    overflow: hidden;
+}
+.info {
+    display: inline-block;
+    width: 100px;
+}
+.header-info {
+    font-weight: bold;
+}
+.rating {
+    margin-left: 20px;
+}
+.rating:hover {
+    cursor: pointer;
+}
+.nav-item:hover {
+    color: black;
+}
+.active {
+    color: black;
+}
